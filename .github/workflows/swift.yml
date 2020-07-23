@@ -16,4 +16,4 @@ jobs:
     - name: Build
       run: whoami
     - name: Run tests
-      run: swift test -v
+      run: whoami
